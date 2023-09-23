@@ -465,9 +465,10 @@ p {
 }
 
 .project_box {
-    display: flex;
+    display: inline-block;
     flex-direction: row;
     padding: 1.5em 0 1.5em 0;
+    
     
     background-color: #f0eeee9e;
 }
